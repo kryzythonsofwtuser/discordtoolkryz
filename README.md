@@ -11,7 +11,7 @@ pip install requests
 
 pkg install git -y
 git clone https://github.com/kryzythonsofwtuser/discordtoolkryz.git
-cd discordtoolkryz
+cd ~/discordtool
 
 # execute com
 
